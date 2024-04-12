@@ -1,4 +1,4 @@
-7.	Write a program in R to implement binary search.
+# 7.	Write a program in R to implement binary search.
 
 
 BiSearch <- function(table, key) {

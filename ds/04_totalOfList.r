@@ -1,4 +1,4 @@
-4.	Write a function in R that computes the total of a list.
+# 4.	Write a function in R that computes the total of a list.
 
 compute_total <- function(lst) {
   total <- sum(lst)

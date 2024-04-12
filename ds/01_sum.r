@@ -1,4 +1,4 @@
-1.	Write a R program that ask user for a number n and print the sum of the number from 1 to n.
+# 1.	Write a R program that ask user for a number n and print the sum of the number from 1 to n.
 
 
 num = as.integer(readline(prompt = "Enter a number: "))
