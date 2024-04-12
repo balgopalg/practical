@@ -1,5 +1,4 @@
 # 9.	Write a program in R to implement matrices multiplication.
-# Program:
 
 
 m <- matrix(1:8, nrow=2)
