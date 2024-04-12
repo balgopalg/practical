@@ -1,3 +1,6 @@
+7.	Write a program in R to implement binary search.
+
+
 BiSearch <- function(table, key) {
   stopifnot(is.vector(table), is.numeric(table))
   r <- length(table)
