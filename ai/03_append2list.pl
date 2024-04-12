@@ -1,3 +1,5 @@
+# 3.	Write a prolog program to implement append for two lists.
+
 conc([],L,L).
 conc([X|M],N,[X|Q]):-
 conc(M,N,Q).

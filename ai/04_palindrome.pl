@@ -1,3 +1,5 @@
+# 4.	Write a prolog program to implement palindrome.
+
 palindrome([]):- write('palindrome').
 palindrome([_]):- write('palindrome').
 palindrome(L) :-

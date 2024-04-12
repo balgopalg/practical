@@ -1,3 +1,5 @@
+# 7.	Write a prolog program to find the sum of list of numbers.
+
 list_sum([],0).
 list_sum([Head|Tail], Sum) :-
 list_sum(Tail,SumTemp),

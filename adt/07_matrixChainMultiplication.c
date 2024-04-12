@@ -1,3 +1,5 @@
+// 7-Matrix chain multiplication
+
 #include <stdio.h>
 int MatrixChainMultuplication(int arr[], int n) {
    int minMul[n][n];

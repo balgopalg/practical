@@ -1,3 +1,5 @@
+// 8-Longest common subsequence
+
 #include <stdio.h>  
 #include <string.h>  
 int i, j, m, n, LCS_table[20][20];  

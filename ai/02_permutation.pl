@@ -1,3 +1,5 @@
+# 2.	Write a prolog program for finding the permutation of a set.
+
 list = symbol*
 
 %predicates

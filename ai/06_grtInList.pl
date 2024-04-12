@@ -1,3 +1,5 @@
+# 6.	Write a prolog  program to find the greatest number in the list of numbers.
+
 maxlist([H|T],R):-
 length(T,L),
 L>0 ->

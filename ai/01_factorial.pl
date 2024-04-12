@@ -1,3 +1,5 @@
+# 1.	Write a prolog program for find out factorial of a number .
+
 fact(0, 1).
 fact(N, F) :-
     N > 0,

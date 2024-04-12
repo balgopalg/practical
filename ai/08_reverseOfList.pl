@@ -1,3 +1,5 @@
+# 8.	Write a prolog program to print reverse of a list.
+
 reverse([], Y, R) :-
     R = Y.
 reverse([H|T] , Y, R) :-

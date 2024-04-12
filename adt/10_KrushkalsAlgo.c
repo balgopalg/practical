@@ -1,3 +1,5 @@
+// 10-Krushkal's algorithm
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>

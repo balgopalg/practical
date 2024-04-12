@@ -1,3 +1,5 @@
+# 9.	Write a prolog program to solve 8 queen problem.
+
 n_queens(N, Qs) :-
         length(Qs, N),
         Qs ins 1..N,

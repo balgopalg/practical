@@ -1,3 +1,6 @@
+// 6-Huffman code
+
+
 #include<string.h>
 #include<stdio.h>
 #include<stdlib.h>

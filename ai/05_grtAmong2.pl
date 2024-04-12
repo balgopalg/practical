@@ -1,3 +1,5 @@
+# 5.	Write a prolog program to find greater of two number i.e. X and Y.
+
 max(X,Y):-
 
 (
