@@ -1,3 +1,5 @@
+6.	Write a program in R to implement linear search.
+
 arr= c(5,8,4,6,9,2)
 x=9
 i=1
